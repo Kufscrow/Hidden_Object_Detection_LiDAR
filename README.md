@@ -1,5 +1,5 @@
 # Hidden_Object_Detection_LiDAR
-This project contains R codes that is used for hidden object detection from LiDAR datasets representing WUI/forested/city areas, along with necessary core and auxiliary functions written in C++ using RcppArmadillo (in "C++ codes"). 
+This project contains R codes that is used for hidden object detection from LiDAR datasets representing WUI/forested/city areas, along with necessary core and auxiliary functions written in C++ using RcppArmadillo (in "C++ Code"). 
 
 There are two example scenarios studied in this object, one WUI and one city area. The satelitte maps are shown in pic14.png (WUI) and pic1_c.png (City). The LiDAR datasets are available to download from [here](https://drive.google.com/drive/folders/1htQgOJqZsLNvF_ALPeQRCBNlZJ0byReY?usp=sharing)
 
