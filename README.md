@@ -1,7 +1,7 @@
 # Hidden_Object_Detection_LiDAR
 This project contains R codes that is used for hidden object detection from LiDAR datasets representing WUI/forested/city areas.
 
-There are two example scenarios studied in this object, one WUI and one city area. The satelitte maps are shown in pic14.png (WUI) and pic1_c.png (City).
+There are two example scenarios studied in this object, one WUI and one city area. The satelitte maps are shown in pic14.png (WUI) and pic1_c.png (City). The LiDAR datasets are available to download from [here](https://drive.google.com/drive/folders/1htQgOJqZsLNvF_ALPeQRCBNlZJ0byReY?usp=sharing)
 
 All the methods are unsupervised two-stage method, one being ground filtering, and one being detection in non-ground points. Detailed methods used for each code are shown in the following table. Here "Default" means the two files names "SouthernIndiana_WUI_V3_14" and "WestLafayette_Place1_V1_1"
 
