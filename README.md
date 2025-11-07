@@ -5,7 +5,6 @@ There are two example scenarios studied in this object, one WUI and one city are
 
 All the methods are unsupervised two-stage method, one being ground filtering, and one being detection in non-ground points. Detailed methods used for each code are shown in the following table. Here "Default" means the two files names "SouthernIndiana_WUI_V3_14" and "WestLafayette_Place1_V1_1"
 
-## 
 | Code Names | Ground Filtering | Object Detection |
 |-----------------|-----------------|-----------------|
 | **Default.r**   | [HKGF](Pending publication) | [LIE_V2](Pending publication)  |
@@ -16,5 +15,4 @@ All the methods are unsupervised two-stage method, one being ground filtering, a
 | **Default_OSR_2.r** | [OSR](https://ieeexplore.ieee.org/document/10825112) | [LIE_V2](Pending publication) |
 | **Default_OSR_3.r** | [HKGF](Pending publication), [CSF](https://www.mdpi.com/2072-4292/8/6/501),[MCC](https://ieeexplore.ieee.org/document/4137852), [PMF](https://ieeexplore.ieee.org/document/1202973) | [LIE_V1](https://ieeexplore.ieee.org/document/10825112) |
 
-
-
+The "C++ Code" folder contains necessary core and auxiliary functions written in RcppArmadillo. 
